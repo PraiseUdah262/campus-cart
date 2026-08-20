@@ -17,3 +17,8 @@ CampusCart CLI:
 4. Create Order
 5. Generate Receipt
 6. Exit
+
+## Feature Milestones
+-Milestone 1: Set up the basic campus cart CLI and product management.
+-Milestone 2:Add customer orders, stock updates, and receipt generation.
+-Milestone 3: Test the complete system and improve the user experience.
