@@ -8,3 +8,12 @@ The aim is to make managing products and orders easier and more organised.
 -**Campus Vendor:** A small vendors who wants to keep track of products, stock, and customerorders.
 -**Customer:** A students or other customer who wants to place an order and receive clear receipt.
 - **Project Administrator:** A person who manages the product information and keeps the system organised.
+
+## CLI Wireframes
+CampusCart CLI:
+1. Add Product
+2. View Products
+3. Manage Stock
+4. Create Order
+5. Generate Receipt
+6. Exit
