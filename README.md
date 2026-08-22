@@ -10,7 +10,7 @@ The aim is to make managing products and orders easier and more organised.
 - **Project Administrator:** A person who manages the product information and keeps the system organised.
 
 ## CLI Wireframes
-CampusCart CLI:
+CampusCart CLI Options:
 1. Add Product
 2. View Products
 3. Manage Stock
