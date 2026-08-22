@@ -1,4 +1,4 @@
-# CampusCart
+w# CampusCart
 ## Product Vision
 CampusCart is a simple command line program for managing products and orders
 It will help users add products,view products,manage stock, and create customer orders.
@@ -10,7 +10,11 @@ The aim is to make managing products and orders easier and more organised.
 - **Project Administrator:** A person who manages the product information and keeps the system organised.
 
 ## CLI Wireframes
+
 CampusCart CLI Options:
+
+
+
 1. Add Product
 2. View Products
 3. Manage Stock
