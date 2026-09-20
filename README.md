@@ -14,16 +14,13 @@ The aim is to make managing products and orders easier and more organised.
 CampusCart CLI Options:
 
 
+1. Product Vision
 
-1. Add Product
-2. View Products
-3. Manage Stock
-4. Create Order
-5. Generate Receipt
-6. Exit
+2. User Personas
 
-## Feature Milestones
-1: Set up the basic campus cart CLI and product manageme
-2:Add customer orders, stock updates, and receipt generation.
- 3: Test the complete system and improve the user experience.
+3. CLI Wireframes
+
+4. Feature Milestones
+
+
 
