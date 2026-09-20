@@ -21,6 +21,8 @@ CampusCart CLI Options:
 3. CLI Wireframes
 
 4. Feature Milestones
+<img width="163" height="97" alt="image" src="https://github.com/user-attachments/assets/9b139bc0-11c4-4788-bac7-840cfb171a65" />
+
 
 
 
